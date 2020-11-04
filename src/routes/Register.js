@@ -71,7 +71,7 @@ function Register(props) {
                     value={values.confirmPassword}
                     onChange={onChange}
                 />
-                <Button type="submit" primary>
+                <Button type="submit" basic color="purple">
                     Register
                 </Button>
             </Form> 
